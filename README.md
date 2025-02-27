@@ -1,2 +1,2 @@
-# programa-ao_internet
+# programacao_internet
 Repositorio para a aula de desenvolvimento 
